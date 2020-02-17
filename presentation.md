@@ -155,3 +155,7 @@ Playerとは何か
 
 CMSampleBufferをenqueuしていたところを自分で書いてみよう
 Metalで書くよ
+
+## 動画プレーヤーの構成5
+
+AssetReaderの自作

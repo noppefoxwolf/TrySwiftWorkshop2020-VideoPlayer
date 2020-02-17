@@ -1,0 +1,6 @@
+name: "App"
+targets:
+    App:
+        type: application
+        platform: iOS
+        sources: [Sources]
